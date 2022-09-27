@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "646421fb-c969-4fc8-97c8-f825b80e3691": {
+      "ProjectGuid": "646421fb-c969-4fc8-97c8-f825b80e3691",
+      "DisplayName": "PolyAlphabeticCipher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
